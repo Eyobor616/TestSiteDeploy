@@ -1,2 +1,2 @@
-# TestSiteDeploy
-deploy course offerings website
+# devtonic-site
+Info for starters
